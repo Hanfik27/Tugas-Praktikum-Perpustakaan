@@ -1,0 +1,5 @@
+1000 Dugong dudu 100 Non-Fiksi
+500 Dodi idod 100 Fiksi
+10 Cicak ica 100 Non-Fiksi
+100 Babi ibab 100 Fiksi
+1 Admin mimin 95 Fiksi
